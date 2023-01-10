@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=sleepy deer bus gelato 000000
 
 echo ${EXAMCODE}
