@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE= "sleepy deer bus gelato 000000"
+EXAMCODE= 969178191
 
 echo ${EXAMCODE}
